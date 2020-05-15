@@ -1,0 +1,17 @@
+{
+  "@name": "Core",
+  "parameter": [
+    {
+      "@name": "URI",
+      "@value": ""
+    },
+    {
+      "@name": "Browser",
+      "@value": "remote"
+    },
+    {
+      "@name": "remoteURL",
+      "@value": ""
+    }
+  ]
+}
